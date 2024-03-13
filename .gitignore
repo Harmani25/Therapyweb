@@ -120,4 +120,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-env-sample
+.env-sample
